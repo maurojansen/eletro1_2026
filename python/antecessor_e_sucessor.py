@@ -1,3 +1,4 @@
+# aula de 16/10/2026
 print("Antecessor e sucessor de um número")
 numero=int(input("Digite um número: "))
 
