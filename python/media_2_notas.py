@@ -1,3 +1,4 @@
+# aula de 16/10/2026
 print("Média de 2 notas")
 nota1=float(input("Digite a 1a nota: "))
 nota2=float(input("Digite a 2a nota: "))
